@@ -1,0 +1,28 @@
+
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos pessoais e videos
+videos/
+*.MTS
+*.mts
+*.mp4
+*.avi
+*.mov
+
+# Resultados das analises
+*_Sports2D/
+resultados*/
+*.mot
+*.trc
+*.c3d
+*.csv
+logs.txt
+
+# Arquivos temporarios
+.streamlit/secrets.toml
+.env
+.env.*
